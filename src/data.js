@@ -4,7 +4,7 @@ const people = [
 		image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
 		name: 'maria ferguson',
 		title: 'project manager',
-		quote: 'Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.',
+		quote: 'Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok kinfolk mustache.',
 	},
 	{
 		id: 2,
