@@ -11,7 +11,7 @@ const people = [
 		image: 'https://res.cloudinary.com/mdbdrrhm/image/upload/v1631579493/people/person-19_iukl41.jpg',
 		name: 'john doe',
 		title: 'developer',
-		quote: 'Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.',
+		quote: 'Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo meatball subway tile squid umami.',
 	},
 	{
 		id: 3,
@@ -25,7 +25,7 @@ const people = [
 		image: 'https://res.cloudinary.com/mdbdrrhm/image/upload/v1631578727/people/person-10_eenupg.jpg',
 		name: 'susan andersen',
 		title: 'the boss',
-		quote: 'Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
+		quote: 'Marfa af yr 3 wolf moon kogi, readymade distillery whiskey asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
 	},
 ];
 
