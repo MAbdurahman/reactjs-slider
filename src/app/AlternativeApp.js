@@ -40,7 +40,7 @@ export default function AlternativeApp() {
 		return () => {
 			clearInterval(slider);
 		};
-	}, [index]);
+	}, [index, people.length]);
 	return (
 		<section className='section'>
 			<div className='title'>
